@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8f54c57539af147bcbdfecffbc5c94, type: 3}
+  m_Name: GroundObstaclesSO
+  m_EditorClassIdentifier: 
+  GroundObstacles:
+  - {fileID: 7403071277096496185, guid: e6a1a0615ee780a46baa4dc586f01239, type: 3}
+  - {fileID: 7071713126334402252, guid: b7cc8f3bf94b66143acb151384bebfe5, type: 3}
+  - {fileID: 5002543150143174908, guid: 9d2b15c15183ebe488381a738e87289a, type: 3}

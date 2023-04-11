@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa8eefcc5a9baa74ba5b6420657f69e6, type: 3}
+  m_Name: PlaneSObject
+  m_EditorClassIdentifier: 
+  Planes:
+  - {fileID: 126954201762279849, guid: 305513387b377234c9349b0eea2fc072, type: 3}
+  - {fileID: 3747394722775963162, guid: abb18b670296fde498e654f62b1e324f, type: 3}
+  - {fileID: 1031204896588322820, guid: e3846c0606c30df469ccb27c0486c40f, type: 3}
+  - {fileID: 6159554642240042639, guid: ee076e921dd4e5e49b6a4ec6161b4627, type: 3}
+  - {fileID: 5412809926750803810, guid: e8b70615e8371804881389d4237e23b1, type: 3}
